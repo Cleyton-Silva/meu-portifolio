@@ -1,8 +1,8 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - Cleyton 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
-<h4 align="center"><a href="https://lucyanovidio.vercel.app">Confira o projeto aqui</a></h4>
+
+<h4 align="center"><a href="https://github.com/Cleyton-Silva">Confira o projeto aqui</a></h4>
 
 ---
 
@@ -43,10 +43,10 @@ Neste projeto apliquei os seguintes pontos:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/lucyanovidio.png" width="100px" />
+      <img href="https://avatars.githubusercontent.com/u/103380658?s=400&u=1cf83d521039ba96b7b75f9a95ee7872800eb897&v=4" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/lucyanovidio">Lucyan Ovídio.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/Cleyton-Silva">Cleyton Silva.</a> 🙋🏿‍♂️
     </td>
   </tr>
 </table>
